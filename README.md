@@ -10,21 +10,31 @@
 | [인썸니아](https://insomenia.com/) | Full-stack Developer | 20.07 ~ 20.12 |
 
 ### 기술 스택
-
 <section>
   <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-29beb0?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C Sharp-%23239120?style=flat&logo=csharp&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Rails-%23CC0000?style=flat&logo=ruby-on-rails&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-%23000000?style=flat&logo=unity&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-%234053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google BigQuery-%234285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EKS-%23FF9900?style=flat&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo Workflows-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo Events-EF7B4D?style=flat&logo=argo&logoColor=white"/>
 </section>
 
 ### 소셜
-
 <section>
   <a href="mailto:sakiss4774@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
