@@ -12,14 +12,12 @@
 ### 기술 스택
 <section>
   <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-29beb0?style=flat&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-29beb0?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C Sharp-%23239120?style=flat&logo=csharp&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Rails-%23CC0000?style=flat&logo=ruby-on-rails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Framework-%236DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-%23000000?style=flat&logo=unity&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/>
