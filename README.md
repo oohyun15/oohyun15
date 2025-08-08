@@ -1,12 +1,16 @@
 ### 소개
 
-안녕하세요, 서버 개발자 김용현입니다. 단순히 실력 좋은 개발자가 아닌 동료들에게 힘과 도움이 되는 개발자가 되려고 노력하고 있습니다. 취미로 피아노를 칩니다.
+안녕하세요, 서버 개발자 김용현입니다.
+
+단순히 실력 좋은 개발자가 아닌 동료들에게 힘과 도움이 되는 개발자가 되려고 노력하고 있습니다.
+
+취미로 피아노를 칩니다.
 
 ### 경력
 
 |회사|역할|재직 기간|
 |---|---|---|
-| [왓챠](https://www.watcha.com/) | Server Developer | 21.01 ~ |
+| [왓챠](https://www.watcha.com/) | Server Developer | 21.01 ~ 25.08 |
 | [인썸니아](https://insomenia.com/) | Full-stack Developer | 20.07 ~ 20.12 |
 
 ### 기술 스택
@@ -39,5 +43,8 @@
   </a>
   <a href="https://www.linkedin.com/in/yonghyun-kim-b3a227246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@oohyun15" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/>
   </a>
 </section>
