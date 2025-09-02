@@ -10,6 +10,7 @@
 
 |회사|역할|재직 기간|
 |---|---|---|
+| [카카오모빌리티](https://www.kakaomobility.com/) | Server Developer | 25.08 - |
 | [왓챠](https://www.watcha.com/) | Server Developer | 21.01 - 25.08 |
 | [인썸니아](https://insomenia.com/) | Full-stack Developer | 20.07 - 20.12 |
 
